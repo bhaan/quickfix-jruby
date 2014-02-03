@@ -30,7 +30,7 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/mina-core-1.1.7.jar",
     "lib/quickfix.rb",
-    "lib/quickfixj-all-1.5.3.jar",
+    "lib/quickfixj-all-1.5.3-fx-connect.jar",
     "lib/slf4j-api-1.6.3.jar",
     "lib/slf4j-jdk14-1.6.3.jar",
     "quickfix-jruby.gemspec",
